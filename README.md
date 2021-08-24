@@ -10,5 +10,5 @@ Sketch 7: Textured Strokes,<br />
 Sketch 8: Edge Enhancement
 <br /><br />
 
-Java language is used for Processing.
+Java language is used for Processing. <br />
 https://en.wikipedia.org/wiki/Processing_(programming_language)
