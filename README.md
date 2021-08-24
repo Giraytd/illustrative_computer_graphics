@@ -8,3 +8,7 @@ Sketch 5: Voronoi Stippling,<br />
 Sketch 6: Painterly Rendering,<br />
 Sketch 7: Textured Strokes,<br />
 Sketch 8: Edge Enhancement
+<br /><br />
+
+Java language is used for Processing.
+https://en.wikipedia.org/wiki/Processing_(programming_language)
