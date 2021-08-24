@@ -1,10 +1,10 @@
-# illustrative_computer_graphics
+# Illustrative computer graphics
 
-Sketch 1: Halftoning and Floyd Steinberg
-Sketch 2: Digital Screening
-Sketch 3: Procedural Dither Kernels
-Sketch 4: Random Stippling,
-Sketch 5: Voronoi Stippling,
-Sketch 6: Painterly Rendering,
-Sketch 7: Textured Strokes,
+Sketch 1: Halftoning and Floyd Steinberg,<br />
+Sketch 2: Digital Screening,<br />
+Sketch 3: Procedural Dither Kernels,<br />
+Sketch 4: Random Stippling,<br />
+Sketch 5: Voronoi Stippling,<br />
+Sketch 6: Painterly Rendering,<br />
+Sketch 7: Textured Strokes,<br />
 Sketch 8: Edge Enhancement
