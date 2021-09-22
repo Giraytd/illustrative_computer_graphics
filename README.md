@@ -12,3 +12,6 @@ Sketch 8: Edge Enhancement
 
 Java language is used with Processing. <br />
 https://en.wikipedia.org/wiki/Processing_(programming_language)
+
+Disclaimer & Reference:
+Some parts of the code are the works from the courses of Department of Computer and Information Science at Univeristy of Konstanz.
